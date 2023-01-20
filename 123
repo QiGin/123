@@ -1,0 +1,5 @@
+b=0
+a=0
+c=0
+while a=c=b:
+  print("0")
